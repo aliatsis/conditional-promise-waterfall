@@ -1,0 +1,22 @@
+{
+  "name": "conditional-promise-waterfall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "promise",
+    "async",
+    "waterfall",
+    "conditional"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliatsis/conditional-promise-waterfall.git"
+  },
+  "author": "Anthony Liatsis <anthony.liatsis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliatsis/conditional-promise-waterfall/issues"
+  },
+  "homepage": "https://github.com/aliatsis/conditional-promise-waterfall#readme"
+}
